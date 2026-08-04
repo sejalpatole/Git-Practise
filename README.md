@@ -1,6 +1,6 @@
 # Git Practice Repository
 
-Learning Git from Feature Header.
+Learning Git from Main Branch.
 
 Added Navbar Feature.
 
